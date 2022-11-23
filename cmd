@@ -7,3 +7,8 @@ apt-get install
 apt-get update
 sudo su
 
+tar -czvf file.tar.gz directory
+--------------------------One can extract files in a given directory such as /tmp/:-----------------------------------
+tar -xzvf projects.tar.gz -C /tmp/
+https://www.cyberciti.biz/faq/how-to-create-tar-gz-file-in-linux-using-command-line/
+
