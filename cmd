@@ -12,3 +12,10 @@ tar -czvf file.tar.gz directory
 tar -xzvf projects.tar.gz -C /tmp/
 https://www.cyberciti.biz/faq/how-to-create-tar-gz-file-in-linux-using-command-line/
 
+diff filename > finame2
+nano
+vi
+touch
+mkdir
+
+
