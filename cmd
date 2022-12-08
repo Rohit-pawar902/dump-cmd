@@ -17,5 +17,6 @@ nano
 vi
 touch
 mkdir
+telnet
 
 
