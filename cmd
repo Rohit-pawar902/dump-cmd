@@ -18,5 +18,6 @@ vi
 touch
 mkdir
 telnet
+sudo fuser -k 9443/tcp  : for Killing perticular process and freed up it.
 
 
