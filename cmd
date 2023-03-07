@@ -19,5 +19,6 @@ touch
 mkdir
 telnet
 sudo fuser -k 9443/tcp  : for Killing perticular process and freed up it.
+Ctrl + r multiple time on terminal for : It is used for searching in terminal for already runned cmd
 
 
